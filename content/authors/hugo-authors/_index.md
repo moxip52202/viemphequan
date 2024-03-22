@@ -5,14 +5,10 @@ bio: |
 avatar: /images/be-mat-tao-do.png
 featured: true
 social:
+  - title: facebook
+    url: https://facebook.com/mattaodo
+  - title: instagram
+    url: https://www.instagram.com/mattaodobomau
   - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+    url: mailto:kinhdoanh@tamannatural.vn
 ---
