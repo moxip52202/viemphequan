@@ -1,0 +1,27 @@
+{
+  "name": "viemphequan",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd7da5f-0c4d-4a43-9e23-2d1baf0d35cc/deploy-status)](https://app.netlify.com/sites/hugo-novela-forestry/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducwp/viemphequan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducwp/viemphequan/issues"
+  },
+  "homepage": "https://github.com/ducwp/viemphequan#readme",
+  "dependencies": {
+    "tinacms": "^1.6.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.42",
+    "@types/node": "^20.11.30"
+  }
+}
