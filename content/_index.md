@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Viêm phế quản những đều cần biết và giải pháp hỗ trợ.
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg
