@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/images
+public_folder: /images
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: ducwp
+#     api_key: 679494552725732
+#locale: 'vi'
+show_preview_links: true
+# i18n:
+#   structure: multiple_folders
+#   locales: [vietnamese, english, deutsch]
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/post'
+    create: true
+    #i18n: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Tiêu đề', name: 'title', widget: 'string', pattern: ['.{20,}', "Phải có ít nhất 20 ký tự"], i18n: true }
+      - { label: 'Đường dẫn', name: 'slug', widget: 'string', i18n: true, required: false}
+      - { label: 'Ngày xuất bản', name: 'date', widget: 'datetime', i18n: duplicate }
+      - { label: 'Ảnh nổi bật', name: 'image', widget: 'image', i18n: duplicate }
+      - { label: 'Thẻ', name: 'tags', widget: 'list', add_to_top: true, i18n: true }
+      - { label: "Mô tả", name: "description", widget: "text" , required: false }
+      - { label: 'Nội dung', name: 'body', widget: 'markdown', i18n: true }
+      - { label: 'Tác giả', name: 'author', widget: 'list', default: ['Admin'], i18n: false }
+      

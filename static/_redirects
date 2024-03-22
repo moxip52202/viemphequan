@@ -1,0 +1,5 @@
+# Identity
+/#invite_token=* /admin/#invite_token=*
+/#confirmation_token=* /admin/#confirmation_token=* 
+/#recovery_token=* /admin/#recovery_token=* 
+/#email_change_token=* /admin/#email_change_token=* 
