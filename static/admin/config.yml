@@ -8,7 +8,9 @@ public_folder: /images
 #   config:
 #     cloud_name: ducwp
 #     api_key: 679494552725732
-#locale: 'vi'
+logo_url: https://mattaodo.vn/images/logo.png
+logo_link: ../
+locale: 'vi'
 show_preview_links: true
 # i18n:
 #   structure: multiple_folders
