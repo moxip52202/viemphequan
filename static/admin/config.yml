@@ -8,6 +8,7 @@ public_folder: /images
 #   config:
 #     cloud_name: ducwp
 #     api_key: 679494552725732
+site_url: https://viemphequan.mattaodo.com
 logo_url: https://mattaodo.vn/images/logo.png
 logo_link: ../
 locale: 'vi'
