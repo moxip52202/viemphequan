@@ -19,7 +19,7 @@ author:
 Viêm phế quản là tình trạng viêm niêm mạc ống phế quản, Khi bị mắc viêm phế quản, người bệnh thường ho , khạc đờm. Có hai loại viêm phế quản, bao gồm viêm phế quản cấp tính và mãn tính:
 
 - **Viêm phế quản cấp:** Là tình trạng viêm nhiễm cấp tính của niêm mạc phế quản ở ngưởi trước đó không có tổn thương, thường do vi khuẩn, vi- rút hoặc cả hai.
-- **Viêm phế quản mãn tính*****:*** Khi chuyển sang giai đoạn mãn tính, nó sẽ kích thích liên tục các ống phế quản, đây là một trong những nguyên nhân chính gây nên bệnh phổi tắc nghẽn mãn tính (COPD). Tình trạng này có thể kéo dài hàng tháng, thậm chí là nhiều năm. Viêm phế quản mãn tính có cấp độ nghiêm trọng hơn nhiều so với viêm phế quản cấp tính.
+- **Viêm phế quản mãn tính:** Khi chuyển sang giai đoạn mãn tính, nó sẽ kích thích liên tục các ống phế quản, đây là một trong những nguyên nhân chính gây nên bệnh phổi tắc nghẽn mãn tính (COPD). Tình trạng này có thể kéo dài hàng tháng, thậm chí là nhiều năm. Viêm phế quản mãn tính có cấp độ nghiêm trọng hơn nhiều so với viêm phế quản cấp tính.
 
 ## 2. Nguyên nhân gây ra bệnh viêm phế quản
 
@@ -50,8 +50,7 @@ Nếu bị **viêm phế quản cấp tính**, bạn sẽ xuất hiện những
 
 ## 5. Khi nào bạn cần đến khám bác sĩ?
 
-![](https://vinmec-prod.s3.amazonaws.com/images/20190923_165457_505611_chan-doan-viem-phe-.max-1800x1800.jpg)
-Bạn nên tới khám bác sĩ nếu những cơn ho kéo dài hơn 3 tuần
+![](https://vinmec-prod.s3.amazonaws.com/images/20190923_165457_505611_chan-doan-viem-phe-.max-1800x1800.jpg) Bạn nên tới khám bác sĩ nếu những cơn ho kéo dài hơn 3 tuần
 
 Bạn nên đi khám bác sĩ nếu xuất hiện bất kỳ dấu hiệu nào dưới đây:
 
@@ -74,8 +73,7 @@ Ngoài ra, các xét nghiệm khác cũng được thực hiện để chẩn đ
 
 ## 7. Phương pháp điều trị viêm phế quản
 
-![](https://vinmec-prod.s3.amazonaws.com/images/20190923_165528_246502_chan-doan-viem-phe-.max-1800x1800.png)
-Trường hợp viêm phế quản cấp tính, người bệnh cần sử dụng một số loại thuốc giúp giảm các triệu chứng
+![](https://vinmec-prod.s3.amazonaws.com/images/20190923_165528_246502_chan-doan-viem-phe-.max-1800x1800.png) Trường hợp viêm phế quản cấp tính, người bệnh cần sử dụng một số loại thuốc giúp giảm các triệu chứng
 
 Đối với các trường hợp **viêm phế quản cấp tính**, bác sĩ sẽ chỉ định cho người bệnh sử dụng một số loại thuốc giúp giảm các triệu chứng, bao gồm:
 
@@ -90,13 +88,9 @@ Nếu bị viêm phế quản mãn tính, bạn nên tiến hành phục hồi c
 Để giúp giảm nguy cơ và phòng ngừa bệnh viêm phế quản, bạn có thể thực hiện theo các cách sau:
 
 - Tránh xa khói thuốc lá
-
 - Uống nhiều nước
-
 - Tiêm chủng hàng năm giúp bảo vệ sức khỏe cũng như tránh bị cảm cúm và bảo vệ chống lại một số loại viêm phổi
-
 - Rửa tay với nước rửa tay thường xuyên để giảm nguy cơ mắc bệnh
-
 - Tránh tiếp xúc với những người bị cảm lạnh hoặc cúm nếu bạn đang có vấn đề về sức khỏe.
 
 
